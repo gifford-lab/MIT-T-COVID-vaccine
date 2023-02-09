@@ -1,0 +1,13 @@
+Vaccine,ID,CD4+ CD44+,CD8+ CD44+
+Peptide/poly IC,Peptide/poly IC-1,0.227,0.355
+Peptide/poly IC,Peptide/poly IC-2,0.29,0.434
+Peptide/poly IC,Peptide/poly IC-3,0.282,0.468
+Pfizer/BNT,BNT-1,0.257,0.528
+Pfizer/BNT,BNT-2,0.275,0.593
+Pfizer/BNT,BNT-3,0.293,0.554
+MIT,MIT-1,0.354,0.582
+MIT,MIT-2,0.289,0.533
+MIT,MIT-3,0.271,0.542
+PBS,PBS-1,0.205,0.339
+PBS,PBS-2,0.286,0.403
+PBS,PBS-3,0.297,0.379
